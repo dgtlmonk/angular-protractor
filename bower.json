@@ -1,0 +1,30 @@
+{
+  "name": "angular-protractor-boilerplate",
+  "version": "0.0.1",
+  "authors": [
+    "Joel Pablo <joel.pablo@digitalmonkstudio.com>"
+  ],
+  "description": "An Angular-Protractor E2E Boilerplate",
+  "main": "index.html",
+  "keywords": [
+    "protractor",
+    "protractor",
+    "boilerplate",
+    "angular-protractor"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "vendor",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular-ui-router": "~0.2.10",
+    "angular": "~1.2.16",
+    "bootstrap": "~3.1.1"
+  }
+}

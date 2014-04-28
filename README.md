@@ -1,4 +1,4 @@
 $http-server
-protractor app/test/protractor.con.js
+protractor app/test/protractor.conf.js
 
 watch dze magic ..

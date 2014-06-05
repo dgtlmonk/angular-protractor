@@ -1,4 +1,5 @@
-### Angular+Protractor E2E Testing starter kit
+### Angular+Protractor E2E Testing starter kit 
+- Personal usage purpose but feel free to use
 
 #### Usage
 
